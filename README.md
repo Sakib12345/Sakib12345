@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Md Sakib Al Islam, MERN Stack Developer
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Machine Learning.
 
-- 🌱 I’m currently learning Next JS, Redux
+- 🌱 I’m currently learning Next JS, Redux, Machine Learning, Microsoft SQL Server.
 
 - 💞️ I’m looking to collaborate with any programmer
 
