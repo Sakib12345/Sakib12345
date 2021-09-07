@@ -8,7 +8,7 @@
 
 - 📫 Linked In: https://www.linkedin.com/in/sakib12345/
 
-My Recent Projects:
+My Projects:
 
 # Filmy : https://filmy-32c70.web.app/
 
