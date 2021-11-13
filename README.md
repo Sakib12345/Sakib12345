@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Md Sakib Al Islam, MERN Stack Developer
 
+- Currently I am woring in iBOS ERP Solution (as Junior Frontend Software Developer / React JS Developer)
+
 - 👀 I’m interested in Web Development and Machine Learning.
 
 - 🌱 I’m currently learning Next JS, Redux, Machine Learning, Microsoft SQL Server.
