@@ -2,7 +2,7 @@
 
 - Currently I am woring in iBOS ERP Solution (as Junior Frontend Software Developer / React JS Developer)
 
-- 👀 I’m interested in Web Development and Machine Learning.
+- 👀 I’m interested in Web Development and Block Chain.
 
 - 🌱 I’m currently learning Next JS, Redux, Machine Learning, Microsoft SQL Server.
 
