@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development and Block Chain.
 
-- 🌱 I’m currently learning Next JS, Redux, Machine Learning, Microsoft SQL Server.
+- 🌱 I’m currently learning Solidity Programming Language.
 
 - 💞️ I’m looking to collaborate with any programmer
 
