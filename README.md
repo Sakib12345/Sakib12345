@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning Solidity Programming Language.
 
-- 💞️ I’m looking to collaborate with any programmer
-
 - 📫 Linked In: https://www.linkedin.com/in/sakib12345/
 
 My Projects:
