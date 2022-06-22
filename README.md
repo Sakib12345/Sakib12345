@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Sakib Al Islam, MERN Stack Developer and Block Chain enthusiast 
 
-- Currently I am woring in iBOS SME (as Junior Frontend Software Developer / React JS Developer)
+- Currently I am woring at Echologyx LTD (as Junior Software Engineer)
 
 - 👀 I’m interested in Web Development and Block Chain.
 
