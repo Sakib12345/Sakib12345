@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer and Block Chain enthusiast 
+- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer, and Block Chain enthusiast 
 
 - Currently I am woring at Echologyx LTD (as Junior Software Engineer)
 
