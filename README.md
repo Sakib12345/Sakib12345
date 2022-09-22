@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer, and Block Chain enthusiast 
 
-- Currently I am woring at Echologyx LTD (as Junior Software Engineer)
+- Currently I am woring at Echologyx LTD (as a Software Engineer)
 
 - 👀 I’m interested in Web Development and Block Chain.
 
-- 🌱 I’m currently learning Solidity Programming Language.
+- 🌱 I’m currently learning Data Structure and Algorithm.
 
 - 📫 Linked In: https://www.linkedin.com/in/sakib12345/
 
