@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer, and Block Chain enthusiast 
+h- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer, and Block Chain enthusiast 
 
 - Currently I am woring at Echologyx LTD (as a Software Engineer)
 
@@ -37,7 +37,7 @@ My Projects:
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sakib12345/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sakib.alislam12345/)</p>]
 
 <br />
 
@@ -69,12 +69,12 @@ My Projects:
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a> -->
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 🔭 I’m working - At Echologyx LTD. 
+### 🌱 I’m exploring - Blockchain. 
+### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
@@ -82,8 +82,4 @@ My Projects:
 <br />
 
 ## :book: My recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
-<!-- BLOG-POST-LIST:END -->
+
