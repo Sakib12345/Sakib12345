@@ -1,4 +1,4 @@
-h- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer, and BlockChain enthusiast 
+- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer, and BlockChain enthusiast 
 
 <a href="https://www.facebook.com/sakib.alislam12345/">
 <img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
@@ -15,7 +15,7 @@ h- 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify D
 
 <br />
 
-<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sakib12345/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sakib.alislam12345/)</p>
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sakib12345/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/sakib.alislam12345/)</p>
 
 <br />
 
