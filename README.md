@@ -4,13 +4,6 @@
 <img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 ## :mailbox: Reach me out
 
 <br />
@@ -44,17 +37,10 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
-## :eyes: Current overview
-
-<div align="left">
-<!-- <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a> -->
-</div>
-
 ### 🔭 I’m working - At Echologyx LTD. 
 ### 🌱 I’m exploring - Blockchain. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 
 <br />
@@ -65,6 +51,4 @@ My Projects:
 # Filmy : https://filmy-32c70.web.app/
 # Easy Express: https://easy-express-6971c.web.app/
 # Portfolio:https://sakib-al-islam-e9a854.netlify.app/
-
-## :book: My recent blog posts
 
