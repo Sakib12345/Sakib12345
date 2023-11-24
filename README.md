@@ -3,11 +3,9 @@
 <a href="https://www.facebook.com/sakib.alislam12345/">
 <img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
 </a>
-
 <br />
 
 ## :computer: Technologies that I know
-
 <br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
