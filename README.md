@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Md Sakib Al Islam, A/B Tester, MERN Stack Developer, Shopify Developer
+### 👋 Hi, I’m Md Sakib Al Islam, JAVASCRIPT Developer
 
 <a href="https://www.facebook.com/sakib.alislam12345/">
 <img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
