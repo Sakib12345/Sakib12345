@@ -1,10 +1,10 @@
 ### <h1>Hi 👋 Nice to see you</h1>
-<hr>
 
 <a href="https://www.facebook.com/sakib.alislam12345/">
 <img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
 </a>
 <br />
+<hr>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
