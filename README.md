@@ -1,8 +1,5 @@
 ### <h1>Hi 👋 Nice to see you</h1>
 
-<a href="https://www.facebook.com/sakib.alislam12345/">
-<img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
-</a>
 <br />
 <hr>
 
@@ -20,6 +17,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+<a href="https://www.facebook.com/sakib.alislam12345/">
+<img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
+</a>
 
 ### 🔭 I’m working - as Javascript Developer. 
 ### 🌱 I’m exploring - Next JS. 
