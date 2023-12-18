@@ -1,9 +1,10 @@
-### <h1>Greetings! 🌟 Delighted to make your acquaintance. Your presence brings a refreshing spark to the moment.!!</h1>
+### <h1>Greetings! 🌟 Delighted to make your acquaintance. Your presence brings a refreshing spark to the moment!!</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=next.js&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
