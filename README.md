@@ -21,6 +21,6 @@
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 <br />
-<a href="https://www.facebook.com/sakib.alislam12345/">
+
 <img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
 </a>
