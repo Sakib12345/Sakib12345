@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔭 I’m working - as a Software Engineer. 
-### 🌱 I’m exploring - Next JS. 
+### 🌱 I’m exploring - Next JS & Typescript. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 <br />
