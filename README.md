@@ -22,5 +22,5 @@
 ### 🤔 I’m trying - To help people learn web development. 
 <br />
 <a href="https://www.linkedin.com/in/sakib12345/">
-<img src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
+<img height='300px' src="https://github.com/SakibAlIslam/SakibAlIslam/blob/main/github%20image.jpg?raw=true" />
 </a>
